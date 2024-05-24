@@ -1,0 +1,23 @@
+.banner{
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)),
+    url(https://live-production.wcms.abc-cdn.net.au/c26e2bf95766f7b3cd0c78d5f5e31585?impolicy=wcms_crop_resize&cropH=2930&cropW=4395&xPos=0&yPos=1&width=862&height=575); 
+}
+
+.banner-container{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 15% 0;
+}
+
+.banner h1{
+    margin: 0;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0);
+    font-size: 62px;
+    font-weight: bold;
+}

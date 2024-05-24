@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "On The Road",
+    "author": "Jack Kerouac",
+    "price": 10,
+    "img": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/2/23/1424693035727/87ca65a2-90ac-496b-a561-462ffa6762a3-bestSizeAvailable.jpeg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a5e69b65e81f324c9866367bc892172e",
+    "quantity": 1
+  },
+  {
+    "id": 2,
+    "name": "The Subterraneans",
+    "author": "Jack Kerouac",
+    "price": 20,
+    "img": "https://m.media-amazon.com/images/I/71VFH6tulEL._AC_UF1000,1000_QL80_.jpg",
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "name": "Indian Journals",
+    "author": "Allen Ginsberg",
+    "price": 27,
+    "img": "https://m.media-amazon.com/images/I/818ZskeUqLL._AC_UF1000,1000_QL80_.jpg",
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "name": "Iron Horse",
+    "author": "Allen Ginsberg",
+    "price": 18,
+    "img": "https://sweetbooks.cdn.bibliopolis.com/pictures/SKB-439.jpg?width=768&height=1000&fit=bounds&auto=webp&v=1491618314",
+    "quantity": 1
+  }
+]
